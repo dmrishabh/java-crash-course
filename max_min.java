@@ -19,7 +19,7 @@ public class max_min {
         for (j = 1; j < 10; j++) {
             if (num[j] > max) {
                 max = num[j];
-                pOmax = j;
+                pOmax = j
 
             } else if (num[j] < min) {
 
